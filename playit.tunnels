@@ -82,7 +82,7 @@
           "agent_id": "b4ae1f98-eb17-48ad-8e7f-e493669d430e",
           "agent_name": "FDKSRV",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 3341
         },
         "type": "agent"
       },

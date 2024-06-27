@@ -1,612 +1,1164 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719446834206 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719512275464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446837370 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512278570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446840422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512281654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446843487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512284696 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446846584 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512287750 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446850574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512290819 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446854283 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512293906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446857375 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512297021 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446860471 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512300116 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446863526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512303233 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446866576 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512306323 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446869631 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512309398 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446873380 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512312505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446877141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512315583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446880234 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512318713 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446883302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512321790 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446886378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512324862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446889807 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512327941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446892872 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512330988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446895984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512334046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446899034 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512337117 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446902073 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512340265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446905163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512343463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446908202 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512346522 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446911259 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512349615 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446914348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512352719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446917412 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512355784 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446920488 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512358845 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446923545 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512361992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446926607 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512365091 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446929675 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512368132 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446932726 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512371189 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446935777 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512374257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446938848 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512377320 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446942657 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512380385 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446947669 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512383452 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446950768 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512386657 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446953830 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512389772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446956871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512392823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446959973 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512395882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446963033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512398948 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446967392 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512402044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446970557 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512405095 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446973904 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512408159 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446976981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512411273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446980114 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512414354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446983167 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512417462 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446986222 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512420526 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446992917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512423577 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446996080 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512426618 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719446999200 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512429695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447002292 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512432765 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447005324 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512435916 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447008363 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512438994 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447011425 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512442074 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447014487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512445181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447017525 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512448324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447020579 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512451389 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447023646 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512454447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447026694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512457536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447029745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512460620 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447032942 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512463679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447036969 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512466729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447040005 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512469775 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447043053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512472864 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447046183 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512475915 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447049306 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512478965 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447052356 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512482101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447055392 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512485254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447058992 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512488324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447062410 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512491415 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447065474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512494468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447068536 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512497595 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447071605 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512500685 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447074652 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512503777 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447077699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512506897 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447080776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512509981 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447083832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512513047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447086897 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512516111 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447090010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512519183 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447093302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512522251 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447096350 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512525308 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447099396 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512528380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447102443 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512531519 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447105614 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512534571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447108728 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512537621 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447111767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512540717 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447114861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512543786 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447117921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512546854 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447121127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512549969 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447124343 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512553099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447127531 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512556202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447130603 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512559268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447133789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512562315 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447137749 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512565354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447140884 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512568403 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447143945 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512571486 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447147020 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512574584 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447150092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512577680 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447153193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512580721 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447156237 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512583780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719447159828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719512586835 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-play-details.gl.at.ply.gg:3341 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512589926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512592995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512596125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512599170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512602295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512605383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512608423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512611506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512614584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512617660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512620739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512623794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512626850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512629932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512632995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512636065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512639143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512642222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512645363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512648417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512651467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512654531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512657598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512660695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512663765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512666844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512669947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512673059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512676121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512679181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512682260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512685339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512688442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512691517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512694619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512697724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512700848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512703955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512707034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512710094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512713198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512716237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512719303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512722362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512725467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512728533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512731599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512734717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512737776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512740829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512743956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512747013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512750142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512753184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512756246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512759313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512762464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512765537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512768591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512771637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512774684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512777757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512780809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512783865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512786983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512790071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512793145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512796187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512799248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512802310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512805386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512808482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512811562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512814632 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512817743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512820787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512823848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512826906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512830026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512833105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512836204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512839279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512842355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512845425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512848533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512851596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512854673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512857742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512860790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512863842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512866942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
+michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719512869982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+play-details.gl.at.ply.gg:3341 => 127.0.0.1:3341 (proto: Udp, port count: 1)
 michael-payment.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
